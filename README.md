@@ -1,2 +1,2 @@
 # Demo-
-Github session
+Github session,workshop
